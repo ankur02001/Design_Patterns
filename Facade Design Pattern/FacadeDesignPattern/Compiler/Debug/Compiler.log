@@ -1,0 +1,17 @@
+﻿Build started 9/29/2015 9:23:05 PM.
+     1>Project "C:\Users\Ankur\Documents\Visual Studio 2015\Projects\DesignPattern\FacadeDesignPattern\Compiler\Compiler.vcxproj" on node 5 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D CODE_ANALYSIS /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze /analyze:plugin"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\\bin\localespc.dll" /errorReport:prompt   /analyze:quiet Compiler.cpp
+         Compiler.cpp
+     1>c:\users\ankur\documents\visual studio 2015\projects\designpattern\facadedesignpattern\compiler\compiler.cpp(1): error C2653: 'Compiler': is not a class or namespace name
+     1>c:\users\ankur\documents\visual studio 2015\projects\designpattern\facadedesignpattern\compiler\compiler.cpp(2): error C2065: 'istream': undeclared identifier
+     1>c:\users\ankur\documents\visual studio 2015\projects\designpattern\facadedesignpattern\compiler\compiler.cpp(2): error C2065: 'input': undeclared identifier
+     1>c:\users\ankur\documents\visual studio 2015\projects\designpattern\facadedesignpattern\compiler\compiler.cpp(2): error C2065: 'BytecodeStream': undeclared identifier
+     1>c:\users\ankur\documents\visual studio 2015\projects\designpattern\facadedesignpattern\compiler\compiler.cpp(3): error C2065: 'output': undeclared identifier
+     1>c:\users\ankur\documents\visual studio 2015\projects\designpattern\facadedesignpattern\compiler\compiler.cpp(3): error C2182: 'Compile': illegal use of type 'void'
+     1>c:\users\ankur\documents\visual studio 2015\projects\designpattern\facadedesignpattern\compiler\compiler.cpp(3): error C2448: 'Compile': function-style initializer appears to be a function definition
+     1>Done Building Project "C:\Users\Ankur\Documents\Visual Studio 2015\Projects\DesignPattern\FacadeDesignPattern\Compiler\Compiler.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.24

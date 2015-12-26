@@ -1,0 +1,24 @@
+C:\Users\Ankur\Downloads\InterpreterPattern\Interpreter\PackageBuilderWizard\bin\Debug\PackageBuilderWizard.exe.config
+C:\Users\Ankur\Downloads\InterpreterPattern\Interpreter\PackageBuilderWizard\bin\Debug\PackageBuilderWizard.exe
+C:\Users\Ankur\Downloads\InterpreterPattern\Interpreter\PackageBuilderWizard\bin\Debug\PackageBuilderWizard.pdb
+C:\Users\Ankur\Downloads\InterpreterPattern\Interpreter\PackageBuilderWizard\obj\Debug\PackageBuilderWizard.csprojResolveAssemblyReference.cache
+C:\Users\Ankur\Downloads\InterpreterPattern\Interpreter\PackageBuilderWizard\obj\Debug\PackageBuilderWizard.exe
+C:\Users\Ankur\Downloads\InterpreterPattern\Interpreter\PackageBuilderWizard\obj\Debug\PackageBuilderWizard.pdb
+C:\Users\Ankur\Music\Dp-2015-11-29\Dp\Interpreter\Interpreter\PackageBuilderWizard\bin\Debug\PackageBuilderWizard.exe.config
+C:\Users\Ankur\Music\Dp-2015-11-29\Dp\Interpreter\Interpreter\PackageBuilderWizard\bin\Debug\PackageBuilderWizard.exe
+C:\Users\Ankur\Music\Dp-2015-11-29\Dp\Interpreter\Interpreter\PackageBuilderWizard\bin\Debug\PackageBuilderWizard.pdb
+C:\Users\Ankur\Music\Dp-2015-11-29\Dp\Interpreter\Interpreter\PackageBuilderWizard\obj\Debug\PackageBuilderWizard.exe
+C:\Users\Ankur\Music\Dp-2015-11-29\Dp\Interpreter\Interpreter\PackageBuilderWizard\obj\Debug\PackageBuilderWizard.pdb
+C:\Users\Ankur\Music\Dp-2015-11-29\Dp\Interpreter\Interpreter\PackageBuilderWizard\obj\Debug\PackageBuilderWizard.csprojResolveAssemblyReference.cache
+C:\Users\Ankur\Music\Code_New-2015-12-06\Code New\Interpreter\Interpreter\PackageBuilderWizard\bin\Debug\PackageBuilderWizard.exe.config
+C:\Users\Ankur\Music\Code_New-2015-12-06\Code New\Interpreter\Interpreter\PackageBuilderWizard\obj\Debug\PackageBuilderWizard.exe
+C:\Users\Ankur\Music\Code_New-2015-12-06\Code New\Interpreter\Interpreter\PackageBuilderWizard\obj\Debug\PackageBuilderWizard.pdb
+C:\Users\Ankur\Music\Code_New-2015-12-06\Code New\Interpreter\Interpreter\PackageBuilderWizard\bin\Debug\PackageBuilderWizard.exe
+C:\Users\Ankur\Music\Code_New-2015-12-06\Code New\Interpreter\Interpreter\PackageBuilderWizard\bin\Debug\PackageBuilderWizard.pdb
+C:\Users\Ankur\Music\Code_New-2015-12-06\Code New\Interpreter\Interpreter\PackageBuilderWizard\obj\Debug\PackageBuilderWizard.csprojResolveAssemblyReference.cache
+C:\Users\Ankur\Downloads\Interpreter\Interpreter\PackageBuilderWizard\bin\Debug\PackageBuilderWizard.exe.config
+C:\Users\Ankur\Downloads\Interpreter\Interpreter\PackageBuilderWizard\obj\Debug\PackageBuilderWizard.exe
+C:\Users\Ankur\Downloads\Interpreter\Interpreter\PackageBuilderWizard\obj\Debug\PackageBuilderWizard.pdb
+C:\Users\Ankur\Downloads\Interpreter\Interpreter\PackageBuilderWizard\bin\Debug\PackageBuilderWizard.exe
+C:\Users\Ankur\Downloads\Interpreter\Interpreter\PackageBuilderWizard\bin\Debug\PackageBuilderWizard.pdb
+C:\Users\Ankur\Downloads\Interpreter\Interpreter\PackageBuilderWizard\obj\Debug\PackageBuilderWizard.csprojResolveAssemblyReference.cache

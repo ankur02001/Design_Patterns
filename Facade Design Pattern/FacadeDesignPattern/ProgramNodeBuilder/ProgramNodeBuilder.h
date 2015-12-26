@@ -1,0 +1,29 @@
+#pragma once
+class ProgramNodeBuilder {
+	Design Patterns : Elements of Reusable Object - Oriented Software
+		213
+public:
+	ProgramNodeBuilder();
+
+	virtual ProgramNode* NewVariable(
+		const char* variableName
+		) const;
+
+	virtual ProgramNode* NewAssignment(
+		ProgramNode* variable, ProgramNode* expression
+		) const;
+
+	virtual ProgramNode* NewReturnStatement(
+		ProgramNode* value
+		) const;
+
+	virtual ProgramNode* NewCondition(
+		ProgramNode* condition,
+		ProgramNode* truePart, ProgramNode* falsePart
+		) const;
+	// ...
+
+	ProgramNode* GetRootNode();
+private:
+	ProgramNode* _node;
+};

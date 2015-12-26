@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<!-- Testing Package Building -->
+<Package>
+  <Declaration>
+	<Package>PackageBuilderTest</Package>
+	<class>TestClass</class>
+	<struct>TestStuct</struct>
+  </Declaration>
+  <ManualPage>
+	<Prolog>
+		<Author>James Bond</Author> 
+		<Email>james_bond@gmail.com</Email>
+	</Prolog>
+	<PackageOps>
+		<op>bQ.enQ(msg);</op>
+		<op>string msg = bQ.deQ();</op>
+	</PackageOps>
+  </ManualPage>
+  <MaintenancePage>
+	<ReqFiles>
+		<File>BlockingQueue.cs</File>
+		<File>Program.cs</File>
+		<File>Thread.cs</File>
+	</ReqFiles>
+	<BuildProc>csc</BuildProc>
+	<Version>1.0</Version>
+  </MaintenancePage>  
+  <TestStub>TEST_PACKAGE</TestStub>
+</Package>
